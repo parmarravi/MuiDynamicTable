@@ -1,0 +1,14 @@
+{
+    "data": [
+        { "riceId": 1, "quotationCount": 5 },
+        { "riceId": 2, "quotationCount": 10 },
+        { "riceId": 3, "quotationCount": 7 },
+        { "riceId": 4, "quotationCount": 12 },
+        { "riceId": 5, "quotationCount": 3 },
+        { "riceId": 6, "quotationCount": 9 },
+        { "riceId": 7, "quotationCount": 8 },
+        { "riceId": 8, "quotationCount": 6 },
+        { "riceId": 9, "quotationCount": 11 },
+        { "riceId": 10, "quotationCount": 4 }
+    ]
+}

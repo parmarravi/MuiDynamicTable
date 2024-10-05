@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "content": {
+            "title": "Lorem Ipsum",
+            "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a tortor in ex varius ullamcorper eget at nunc. Donec accumsan, odio et sagittis bibendum, mauris justo posuere libero, sit amet vestibulum velit velit sed eros."
+        },
+        "actionSelected": "read",
+        "image": "https://example.com/image.jpg",
+        "actionUrl": "https://example.com/article",
+        "targetUser": "johndoe@example.com",
+        "date": "2022-01-20"
+    },
+    {
+        "id": 2,
+        "content": {
+            "title": "Dolor Sit Amet",
+            "message": "Suspendisse pulvinar ullamcorper orci, sit amet eleifend augue dignissim vel. Duis in arcu dapibus, malesuada odio id, fermentum tellus. Sed euismod sit amet orci eget venenatis. Vivamus in fermentum ante."
+        },
+        "actionSelected": "delete",
+        "image": "https://example.com/image2.jpg",
+        "actionUrl": "https://example.com/delete",
+        "targetUser": "janedoe@example.com",
+        "date": "2022-01-19"
+    },
+    {
+        "id": 3,
+        "content": {
+            "title": "Lorem Ipsum",
+            "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a tortor in ex varius ullamcorper eget at nunc. Donec accumsan, odio et sagittis bibendum, mauris justo posuere libero, sit amet vestibulum velit velit sed eros."
+        },
+        "actionSelected": "read",
+        "image": "https://example.com/image.jpg",
+        "actionUrl": "https://example.com/article",
+        "targetUser": "johndoe@example.com",
+        "date": "2022-01-20"
+    },
+    {
+        "id": 4,
+        "content": {
+            "title": "Lorem Ipsum",
+            "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris a tortor in ex varius ullamcorper eget at nunc. Donec accumsan, odio et sagittis bibendum, mauris justo posuere libero, sit amet vestibulum velit velit sed eros."
+        },
+        "actionSelected": "read",
+        "image": "https://example.com/image.jpg",
+        "actionUrl": "https://example.com/article",
+        "targetUser": "johndoe@example.com",
+        "date": "2022-01-20"
+    }
+]

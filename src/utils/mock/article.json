@@ -1,0 +1,41 @@
+[
+    { "id": 1, "type": 1, "title": "Article 1", "uri": "http://example.com/article1", "date": "2023-01-20T10:30:00.000Z" },
+    {
+        "id": 2,
+        "type": 2,
+        "image": "https://images.pexels.com/photos/4110255/pexels-photo-4110255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "uri": "http://example.com/article2",
+        "title": "Article 2",
+        "date": "2023-01-20T10:30:00.000Z",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec enim eu tellus pharetra venenatis. Praesent consectetur risus vel ex luctus, at euismod nibh ultrices. Fusce gravida hendrerit urna, eu ullamcorper dolor congue non. Vivamus nec ligula vel nisl convallis suscipit. In ac tortor vel odio semper porttitor eget a urna. Quisque et ex vitae nunc gravida vestibulum in nec nibh. Praesent pulvinar sapien eget felis lobortis, sit amet semper velit malesuada."
+    },
+    {
+        "id": 3,
+        "type": 2,
+        "image": "https://images.pexels.com/photos/247597/pexels-photo-247597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "uri": "http://example.com/article3",
+        "title": "Article 3",
+        "date": "2023-01-20T10:30:00.000Z",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec enim eu tellus pharetra venenatis. Praesent consectetur risus vel ex luctus, at euismod nibh ultrices. Fusce gravida hendrerit urna, eu ullamcorper dolor congue non. Vivamus nec ligula vel nisl convallis suscipit. In ac tortor vel odio semper porttitor eget a urna. Quisque et ex vitae nunc gravida vestibulum in nec nibh. Praesent pulvinar sapien eget felis lobortis, sit amet semper velit malesuada."
+    },
+    {
+        "id": 4,
+        "type": 2,
+        "image": "https://images.pexels.com/photos/1306548/pexels-photo-1306548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "uri": "http://example.com/article4",
+        "title": "Article 4",
+        "date": "2023-01-20T10:30:00.000Z",
+
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec enim eu tellus pharetra venenatis. Praesent consectetur risus vel ex luctus, at euismod nibh ultrices. Fusce gravida hendrerit urna, eu ullamcorper dolor congue non. Vivamus nec ligula vel nisl convallis suscipit. In ac tortor vel odio semper porttitor eget a urna. Quisque et ex vitae nunc gravida vestibulum in nec nibh. Praesent pulvinar sapien eget felis lobortis, sit amet semper velit malesuada."
+    },
+    { "id": 5, "type": 1, "title": "Article 5", "uri": "http://example.com/article5", "date": "2023-01-20T10:30:00.000Z" },
+    {
+        "id": 6,
+        "type": 2,
+        "image": "https://images.pexels.com/photos/164504/pexels-photo-164504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "uri": "http://example.com/article6",
+        "title": "Article 6",
+        "date": "2023-01-20T10:30:00.000Z",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec enim eu tellus pharetra venenatis. Praesent consectetur risus vel ex luctus, at euismod nibh ultrices. Fusce gravida hendrerit urna, eu ullamcorper dolor congue non. Vivamus nec ligula vel nisl convallis suscipit. In ac tortor vel odio semper porttitor eget a urna. Quisque et ex vitae nunc gravida vestibulum in nec nibh. Praesent pulvinar sapien eget felis lobortis, sit amet semper velit malesuada."
+    }
+]

@@ -1,0 +1,220 @@
+[
+    {
+        "id": 1,
+        "display_name": "John D",
+        "avg_review": 4.5,
+        "full_name": "Alex Doe",
+        "profile_image_url": "https://images.pexels.com/photos/1462980/pexels-photo-1462980.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "email": "johndoe@example.com",
+        "mobile": "1234567890",
+        "alternate_mobile": "0987654321",
+        "type": "seller",
+        "address": {
+            "line1": "123 Main St",
+            "line2": "Apt 4B",
+            "line3": "Building C",
+            "area": "Main Street",
+            "city": "New York",
+            "state": "NY",
+            "country": "USA",
+            "pincode": "10001"
+        },
+        "business_info": {
+            "name": "Info Tech",
+            "email": "info@tech.com",
+            "brand_selected": 1,
+            "brand_designs": [
+                {
+                    "id": 1,
+                    "url": "https://images.pexels.com/photos/258174/pexels-photo-258174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                },
+                {
+                    "id": 2,
+                    "url": "https://images.pexels.com/photos/258174/pexels-photo-258174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                }
+            ],
+            "gst": "ABCDEF1234G",
+            "licence_number": "12345",
+            "bank_account_holder_name": "John Doe",
+            "bank_account_number": "1234567890",
+            "ifsc_code": "ABCD0123456",
+            "swift_code": "ABCD0123456",
+            "tan_number": "ABCDEF1234G",
+            "pan_number": "ABCDE1234F"
+        },
+        "subscription": {
+            "sub_name": "Gold",
+            "sub_expiry": "2023-01-31",
+            "sub_date": "2023-01-01T00:00:00.000Z",
+            "status": "inactive"
+        },
+        "user_status": {
+            "status": "block",
+            "reason": null
+        },
+        "user_cr_date": "2022-12-31T18:30:00.000Z"
+    },
+    {
+        "id": 2,
+        "display_name": "Carl D",
+        "avg_review": 4.5,
+        "full_name": "Carl Deads",
+        "profile_image_url": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "email": "johndoe@example.com",
+        "mobile": "1234567890",
+        "alternate_mobile": "0987654321",
+        "type": "buyer",
+        "address": {
+            "line1": "123 Main St",
+            "line2": "Apt 4B",
+            "line3": "Building C",
+            "area": "Main Street",
+            "city": "New York",
+            "state": "NY",
+            "country": "USA",
+            "pincode": "10001"
+        },
+        "business_info": {
+            "name": "Info Tech",
+            "email": "info@tech.com",
+            "brand_selected": 1,
+            "brand_designs": [
+                {
+                    "id": 1,
+                    "url": "https://images.pexels.com/photos/258174/pexels-photo-258174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                },
+                {
+                    "id": 2,
+                    "url": "https://images.pexels.com/photos/258174/pexels-photo-258174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                },
+                {
+                    "id": 3,
+                    "url": "https://images.pexels.com/photos/258174/pexels-photo-258174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                },
+                {
+                    "id": 4,
+                    "url": "https://images.pexels.com/photos/258174/pexels-photo-258174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                },
+                {
+                    "id": 5,
+                    "url": "https://images.pexels.com/photos/258174/pexels-photo-258174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                },
+                {
+                    "id": 5,
+                    "url": "https://images.pexels.com/photos/258174/pexels-photo-258174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                },
+                {
+                    "id": 7,
+                    "url": "https://images.pexels.com/photos/258174/pexels-photo-258174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                }
+            ],
+            "gst": "ABCDEF1234G",
+            "licence_number": "12345",
+            "bank_account_holder_name": "John Doe",
+            "bank_account_number": "1234567890",
+            "ifsc_code": "ABCD0123456",
+            "swift_code": "ABCD0123456",
+            "tan_number": "ABCDEF1234G",
+            "pan_number": "ABCDE1234F"
+        },
+        "subscription": {
+            "sub_name": "Gold",
+            "sub_expiry": "2023-01-31",
+            "sub_date": "2023-01-01T00:00:00.000Z",
+            "status": "active"
+        },
+        "user_status": {
+            "status": "active",
+            "reason": null
+        },
+        "user_cr_date": "2022-12-31T18:30:00.000Z"
+    },
+    {
+        "id": 3,
+        "display_name": "Mil D",
+        "avg_review": 4.5,
+        "full_name": "Mil Doe",
+        "profile_image_url": "https://images.pexels.com/photos/1559486/pexels-photo-1559486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "email": "johndoe@example.com",
+        "mobile": "1234567890",
+        "alternate_mobile": null,
+        "type": "seller",
+        "address": {
+            "line1": "123 Main St",
+            "line2": "Apt 4B",
+            "line3": "Building C",
+            "area": "Main Street",
+            "city": "New York",
+            "state": "NY",
+            "country": "USA",
+            "pincode": "10001"
+        },
+        "business_info": {
+            "name": "Info Tech",
+            "email": "info@tech.com",
+            "brand_selected": 1,
+            "brand_designs": [
+                {
+                    "id": 1,
+                    "url": "https://images.pexels.com/photos/258174/pexels-photo-258174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                },
+                {
+                    "id": 2,
+                    "url": "https://images.pexels.com/photos/258174/pexels-photo-258174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                }
+            ],
+            "gst": "ABCDEF1234G",
+            "licence_number": "12345",
+            "bank_account_holder_name": "John Doe",
+            "bank_account_number": "1234567890",
+            "ifsc_code": "ABCD0123456",
+            "swift_code": "ABCD0123456",
+            "tan_number": "ABCDEF1234G",
+            "pan_number": "ABCDE1234F"
+        },
+        "subscription": {
+            "sub_name": "Gold",
+            "sub_expiry": "2023-01-31",
+            "sub_date": "2023-01-01T00:00:00.000Z",
+            "status": "inactive"
+        },
+        "user_status": {
+            "status": "active",
+            "reason": null
+        },
+        "user_cr_date": "2022-12-31T18:30:00.000Z"
+    },
+    {
+        "id": 4,
+        "display_name": "sagan sagan",
+        "avg_review": 4.5,
+        "full_name": "Richard sagan",
+        "profile_image_url": "https://images.pexels.com/photos/2726111/pexels-photo-2726111.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "email": "johndoe@example.com",
+        "mobile": "1234567890",
+        "alternate_mobile": "0987654321",
+        "type": "seller",
+        "address": {
+            "line1": "123 Main St",
+            "line2": "Apt 4B",
+            "line3": "Building C",
+            "area": "Main Street",
+            "city": "New York",
+            "state": "NY",
+            "country": "USA",
+            "pincode": "10001"
+        },
+        "business_info": null,
+        "subscription": {
+            "sub_name": "Gold",
+            "sub_expiry": "2023-01-31",
+            "sub_date": "2023-01-01T00:00:00.000Z",
+            "status": "active"
+        },
+        "user_status": {
+            "status": "block",
+            "reason": "Un able to verify your account"
+        },
+        "user_cr_date": "2022-12-31T18:30:00.000Z"
+    }
+]
