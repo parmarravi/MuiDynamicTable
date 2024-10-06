@@ -1,5 +1,7 @@
 MuiDynamicTable Config Based
 
+<img src="SampleImages/banner.png" alt="Banner" width="800"/>
+
 
 View Only Mode
 
