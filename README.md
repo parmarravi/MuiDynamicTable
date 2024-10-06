@@ -1,3 +1,29 @@
+MuiDynamicTable Config Based
+
+
+View Only Mode
+
+<img src="SampleImages/sampel1.png" alt="Sample1" width="600"/>
+
+Multi Selection Mode
+
+<img src="SampleImages/sample2.png" alt="Sample2" width="600"/>
+
+Config based Add/Edit Dynamic Dialog
+
+<img src="SampleImages/sample3.png" alt="Sample3" width="600"/>
+<img src="SampleImages/sample7.png" alt="Sample7" width="600"/>
+
+
+Search Bar
+
+<img src="SampleImages/sample4.png" alt="Sample4" width="600"/>
+
+Custom Calendar Picker Filter
+
+<img src="SampleImages/sample6.png" alt="Sample6" width="600"/>
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
